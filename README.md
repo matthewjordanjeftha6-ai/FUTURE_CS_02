@@ -1,4 +1,4 @@
-# FUTURE_CS_02
+# Phishing Email Detector-Awareness 
 Case Studies
  Fake Bank Alert (FNB Phishing Email)
 
